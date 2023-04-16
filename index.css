@@ -19,8 +19,9 @@ body {
     background: green;
     max-width: 40%;
     color: yellow;
+    font-size: 30px;
     margin: auto;
-    border: 3px solid black;
+    border: 2px solid yellow;
     border-radius: 10px;
 }
 h1 {
